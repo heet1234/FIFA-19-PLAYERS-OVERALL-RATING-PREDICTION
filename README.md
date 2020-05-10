@@ -1,2 +1,2 @@
 # FIFA-19-PLAYERS-OVERALL-RATING-PREDICTION
-Machine Learning project to find overall performance of FIFA Players by using different types of supervised learning algorithms.
+Machine Learning project to find overall performance of FIFA Players by using different types of supervised learning algorithms. Worked with a team member on this project to predict the overall rating prediction on the basis of their potential, value, age etc. using data preprocessing, PCA, feature selection, Data normalization and different types of supervised learning algorithms.
